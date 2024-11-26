@@ -4,7 +4,7 @@ Stellar Engine is an open source, cross-platform 2D graphics engine for [Airlib]
 
 ## Features
 * Written in C
-* Zlib License: free for any project, including commercial ones, allows console development
+* MPL License: free for any project, including commercial ones, allows console development
 * Cross platform: available builds for Windows (32/64) and Linux PC(32/64).
 * High performance: OpenGL based, runs fastly as Airlib uses native libraries(WinAPI/GLX)
 * Streamlined, easy to learn API that requires very little lines of code
